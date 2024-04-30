@@ -1,12 +1,11 @@
 {
-  "name": "test_SagTech",
+  "name": "new_1",
   "version": "0.0.1",
   "description": "",
   "author": "Vika",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "start": "nest start",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
