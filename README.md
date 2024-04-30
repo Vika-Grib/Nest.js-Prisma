@@ -8,7 +8,7 @@
 
 
 ## Description
-Test task for Node.js developer (Nest.js + Prisma)
+Тестовое задание для Node.js разработчика (Nest.js + Prisma)
 
 ## Installation
 ```bash
