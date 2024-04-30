@@ -17,10 +17,13 @@ $ npm install
 
 Шаг 1: Инициализация проекта
 Настройка базового Nest.js проекта
-Создание проекта Nest.js с помощью CLI: nest new new_1.
+Создание проекта Nest.js с помощью CLI: 
+```$ nest new new_1```
 Интеграция Prisma и настройка базы данных PostgreSQL
-Установка Prisma CLI: npm install prisma --save-dev.
-Инициализация Prisma в проекте: npx prisma init.
+Установка Prisma CLI: 
+```$ npm install prisma --save-dev ```
+Инициализация Prisma в проекте: 
+``` $ npx prisma init ```
 Настройка подключения к PostgreSQL в файле .env и prisma/schema.prisma.
 
 
