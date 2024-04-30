@@ -80,8 +80,9 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Сборка проекта
-```npm run build
+ # сборка проекта
+```
+npm run build
 ```
 
 
